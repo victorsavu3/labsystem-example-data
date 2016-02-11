@@ -1,4 +1,2 @@
+children: [a, b, q1]
 type: Collection
-children:
-  - a
-  - b
