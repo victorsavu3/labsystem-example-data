@@ -1,2 +1,3 @@
-children: [a, b, q1]
-type: Collection
+children: [a, b, q1, q2]
+type: Assignment
+teamwork: true
