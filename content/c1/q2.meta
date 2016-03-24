@@ -1,18 +1,8 @@
 type: Question
 questionType: MultipleChoice
 credits: 10
-display: q2Text
 shuffle: true
 maxAllowedAnswers: 4
 singleChoice: false
 maxAllowedMistakes: 0
-options:
-  - {
-    content: q2o1
-  }
-  - {
-    content: q2o2
-  }
-  - {
-    content: q2o3
-  }
+optionCount: 3

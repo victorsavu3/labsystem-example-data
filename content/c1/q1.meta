@@ -1,4 +1,1 @@
-type: Question
-questionType: Text
-credits: 10
-display: q1Text
+{credits: 10, questionType: Text, sectionCount: 1, type: Question}
