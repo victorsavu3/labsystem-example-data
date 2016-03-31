@@ -1,8 +1,2 @@
-type: Question
-questionType: MultipleChoice
-credits: 10
-shuffle: true
-maxAllowedAnswers: 4
-singleChoice: false
-maxAllowedMistakes: 0
-optionCount: 3
+{maxAllowedAnswers: 4, maxAllowedMistakes: 0, optionCount: 1, questionType: MultipleChoice,
+  sectionCount: 1, shuffle: true, shuffleHints: false, singleChoice: false, type: Question}
